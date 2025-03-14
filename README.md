@@ -105,7 +105,7 @@ PORT.html
 
 </body>
 </html>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -214,17 +214,6 @@ PORT.html
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -280,7 +269,7 @@ PORT.html
 style.css
 ```
 ```
-/* General Styles */
+
 body {
     margin: 0;
     padding: 0;
@@ -289,7 +278,7 @@ body {
     color: #fff;
 }
 
-/* Header */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -317,7 +306,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Hero Section */
+
 .hero {
     display: flex;
     align-items: center;
