@@ -214,11 +214,23 @@ contact {
 ```
 
 ## OUTPUT
+<img width="882" height="122" alt="MW 01" src="https://github.com/user-attachments/assets/91ff4488-a2d7-4ca0-a832-0a6e3675b1c1" />
+
+<img width="672" height="440" alt="MW 02" src="https://github.com/user-attachments/assets/40677019-cab4-4b5e-874c-421ce933cf27" />
+
+<img width="683" height="30" alt="MW 03" src="https://github.com/user-attachments/assets/b046b840-b199-4430-b6a8-f721ac7fb367" />
+
+<img width="303" height="79" alt="MW 04" src="https://github.com/user-attachments/assets/738ef334-6bd9-4623-8347-c0c7c1b52acf" />
+
+<img width="357" height="57" alt="MW 05" src="https://github.com/user-attachments/assets/56d37efe-4b06-4e4d-9d53-429001c53c9c" />
+
+<img width="486" height="77" alt="MW 06" src="https://github.com/user-attachments/assets/8f926661-2e4f-48df-bbfe-c043f493aff0" />
 
 
-```
-file:///C:/Users/User/01.html
-```
+
+
+
+
 
 
 
