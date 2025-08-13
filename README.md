@@ -210,7 +210,7 @@ contact {
 ```
 
 ## OUTPUT
-<img width="882" height="122" alt="MW 01" src="https://github.com/user-attachments/assets/91ff4488-a2d7-4ca0-a832-0a6e3675b1c1" />
+<img width="882" height="122" alt="MW 01" src="https://github.com/user-attachments/assets/0a6080c3-6041-45cb-9987-1e9d72c2ecde" />
 
 <img width="672" height="440" alt="MW 02" src="https://github.com/user-attachments/assets/40677019-cab4-4b5e-874c-421ce933cf27" />
 
