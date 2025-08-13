@@ -1,9 +1,5 @@
 # Ex01 Portfolio
 ## Date: 13-08-25
-
- KEERTHIKA S
- 212223040093
- B.E(CSE)
 ## AIM
 To create a Portfolio using HTML and CSS.
 
